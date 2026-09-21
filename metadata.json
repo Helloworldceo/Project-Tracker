@@ -1,0 +1,6 @@
+{
+  "name": "Project Tracker",
+  "description": "A real-time, cross-platform collaborative project tracker with automated status updates, deadline reminders, milestones dashboard, team performance metrics, calendar view, end-to-end encryption, and offline synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
